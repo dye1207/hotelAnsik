@@ -1,7 +1,7 @@
 # 프로젝트: ANSIK HOTEL   
 프로젝트 한줄 소개: 고객들이 편리한 예약 프로세스와 빠른 예약 처리 등을 하여 만족도를 향상시키기고자 제작하였습니다.   
 제작 기간: 23.05.07 ~ 23.06.27  
-개발도구: express, html, css, mysql8.0, bootstrap, google api   
+개발도구: node.js, jQuery, express, html, css, mysql8.0, bootstrap, google api   
 개발인원: 1명   
 git: github.com/dye1207/hotelAnsik.git   
 
